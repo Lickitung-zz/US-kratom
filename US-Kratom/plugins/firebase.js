@@ -6,7 +6,7 @@ import "firebase/firestore";
 Vue.use(firestorePlugin);
 
 const config = {
-    apiKey: "AIzaSyCs4v3X_TdSDmccKqA6k8B-47-UmiDmMzQ",
+    apiKey: "AIzaSyDLIZxAXDslvJOALoiEMKt0uw1JRBBCm9o",
     authDomain: "us-kratom-baybee.firebaseapp.com",
     databaseURL: "https://us-kratom-baybee.firebaseio.com",
     projectId: "us-kratom-baybee",

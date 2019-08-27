@@ -3,32 +3,23 @@
     <v-container class="fluid grid-list-md">
       <v-layout class="row wrap">
         <v-flex v-for="product in products" xs6 :key="product.title">
-          <v-card>
-            <v-img :src="product.pic" class="media" height="300px">
-              <v-container class="fill-height fluid">
-                <v-layout>
-                  <v-flex class="xs12 align-enter flexbox">
-                    <span class="display-1 yellow--text" v-text="product.title">
-
-                    </span>
-                  </v-flex>
-                </v-layout>
-              </v-container>
-            </v-img>
+          <router-link :to="`product/${product.id}`">
+          <Product :product="product">
             <v-card-actions>
               <v-spacer>
-                <v-btn icon>
+                <v-btn>
                   <v-icon></v-icon>
                 </v-btn>
-                <v-btn icon>
+                <v-btn>
                  
                 </v-btn>
-                <v-btn icon>
+                <v-btn>
                  
                 </v-btn>
               </v-spacer>
             </v-card-actions>
-          </v-card>
+          </Product>
+          </router-link>
         </v-flex>
       </v-layout>
     </v-container>
@@ -49,10 +40,11 @@
 <script>
 
 import {db} from "../plugins/firebase"
+import Product from "../components/product"
 
 export default {
   components: {
-    
+    Product
   },
   data() {
     return {
