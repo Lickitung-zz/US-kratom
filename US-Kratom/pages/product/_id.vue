@@ -9,6 +9,10 @@ import {db} from "@/plugins/firebase"
 import Product from "@/components/product"
 
 export default {
+    scrollToTop: true,
+    validate({params}) {
+        return params.id !== undefined;
+    },
     components: {
         Product
     },
