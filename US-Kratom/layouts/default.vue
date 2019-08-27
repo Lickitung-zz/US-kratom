@@ -23,7 +23,10 @@
           </v-list-item-content>
         </v-list-item>
       </v-list>
+      <button v-if="!mySession" @click="login()">Login</button>
+      <button v-else @click="logout()">Logout</button>
     </v-navigation-drawer>
+    
     <v-app-bar
       :clipped-left="clipped"
       fixed
@@ -78,7 +81,14 @@
 </template>
 
 <script>
+import {db} from '@/plugins/firebase'
+import firebase from 'firebase/app'
+import 'firebase/auth'
+
 export default {
+  created () {
+    this.$store.dispatch('setSession');
+  },
   data () {
     return {
       clipped: false,
@@ -100,6 +110,29 @@ export default {
       right: true,
       rightDrawer: false,
       title: 'Vuetify.js'
+    }
+  },
+  methods: {
+    login() {
+      console.log('login');
+      let provider = new firebase.auth.GoogleAuthProvider();
+      firebase
+      .auth()
+      .signInWithPopup(provider)
+      .then(function(result) {
+        console.log('signed in');
+      })
+      .catch(function(error) {
+        console.log(error);
+      })
+    },
+    logout() {
+      console.log('logout');
+    }
+  },
+  computed: {
+    mySession() {
+      return this.$store.getters.session;
     }
   }
 }
