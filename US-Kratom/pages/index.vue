@@ -4,7 +4,7 @@
       <v-layout class="row wrap">
         <v-flex v-for="product in products" xs6 :key="product.title">
           <v-card>
-            <v-card-media :src="product.pic" class="media" height="300px">
+            <v-img :src="product.pic" class="media" height="300px">
               <v-container class="fill-height fluid">
                 <v-layout>
                   <v-flex class="xs12 align-enter flexbox">
@@ -14,11 +14,11 @@
                   </v-flex>
                 </v-layout>
               </v-container>
-            </v-card-media>
+            </v-img>
             <v-card-actions>
               <v-spacer>
                 <v-btn icon>
-                  
+                  <v-icon></v-icon>
                 </v-btn>
                 <v-btn icon>
                  
