@@ -127,7 +127,16 @@ export default {
       })
     },
     logout() {
-      console.log('logout');
+      firebase
+        .auth()
+        .signOut()
+        .then(() => {
+          console.log('sign out');
+        })
+        .catch(error => {
+          console.log(error);
+        });
+      console.log('logout', this.$store.getters.session);
     }
   },
   computed: {
