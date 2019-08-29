@@ -55,6 +55,13 @@ export default {
     return {
       products: db.collection("products")
     }
+  },
+  computed: {
+    myProducts() {
+      this.$store.dispatch('setProduct', this.products);
+      console.log(this.$store.getters.products);
+      return this.products;
+    }
   }
 }
 </script>
