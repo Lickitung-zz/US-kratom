@@ -2,6 +2,8 @@ import Vue from 'vue'
 import { getMatchedComponentsInstances, promisify, globalHandleError } from './utils'
 import NuxtLoading from './components/nuxt-loading.vue'
 
+import '../assets/css/vendor.min.css'
+
 import '../assets/css/styles.css'
 
 import '../assets/css/card.min.css'

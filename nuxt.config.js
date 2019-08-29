@@ -32,7 +32,7 @@ module.exports = {
   */
   css: [
     // 'assets/main/Unishop/template-1/dist/css/styles.min.css'
-    // './assets/css/vendor.min.css',
+    './assets/css/vendor.min.css',
     './assets/css/styles.css',
     './assets/css/card.min.css',
   ],
