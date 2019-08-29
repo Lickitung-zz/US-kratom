@@ -25,7 +25,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    '~/assets/main/Unishop/template-1/dist/css/styles.min.css'
+    // 'assets/main/Unishop/template-1/dist/css/styles.min.css'
   ],
   /*
   ** Plugins to load before mounting the App
