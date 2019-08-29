@@ -1,5 +1,8 @@
 <template>
-  <v-card>
+  <div>
+    
+  </div>
+  <!-- <v-card>
     <v-container class="fluid grid-list-md">
       <v-layout class="row wrap">
         <v-flex v-for="product in products" xs6 :key="product.title">
@@ -23,7 +26,7 @@
         </v-flex>
       </v-layout>
     </v-container>
-  </v-card>
+  </v-card> -->
 </template>
   <!-- <v-layout
     column
@@ -66,7 +69,5 @@ export default {
 }
 </script>
 <style>
-.media:hover {
-  opacity: 0.4;
-}
+
 </style>
