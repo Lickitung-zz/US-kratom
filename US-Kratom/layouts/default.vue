@@ -104,6 +104,11 @@ export default {
           icon: 'cart',
           title: 'Checkout',
           to: '/checkout'
+        },
+        {
+          icon: 'security',
+          title: 'Secret',
+          to: '/secret'
         }
       ],
       miniVariant: false,
