@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69a2d0fb-9435-4bf6-8716-08d0cb0dd7ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kratom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Docs/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/PSD/Template 1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/PSD/Template 2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/PSD/Template 3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/.sass-lint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/base/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/base/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_accordion.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_banners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_countdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_gallery.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_social-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_steps.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_tooltips.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/components/_widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/helpers/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/helpers/_placeholders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/helpers/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/layout/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/layout/_offcanvas-menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/layout/_page-title.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/layout/_section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/modules/_account.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/modules/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/modules/_shop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/404.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-address.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-login.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-orders.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-password-recovery.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-profile.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-single-ticket.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-tickets.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/account-wishlist.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/blog-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/blog-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/blog-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/blog-single-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/blog-single-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/blog-single-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/cart.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/checkout-address.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/checkout-complete.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/checkout-payment.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/checkout-review.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/checkout-shipping.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/coming-soon.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/accordion.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/alerts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/cards.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/countdown.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/forms.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/gallery.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/google-maps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/images.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/list-group.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/market-social-buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/media.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/modal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/pills.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/progress-bars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/shop-items.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/spinners.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/steps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/tables.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/tabs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/team.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/toasts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/tooltips-popovers.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/video-player.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/components/widgets.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/contacts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/autoprefixer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/changelog.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/colors.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/credits.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/dev-setup.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/font-icons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/footer-skin.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/project-structure.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/using-preprocessors.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/utility-classes.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/docs/working-with-grunt.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/faq.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/helpers/config.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/helpers/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/home-collection-showcase.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/home-dark-header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/home-featured-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/order-tracking.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/blog-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/bootstrap-toast.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/checkout-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/docs-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/head.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/mega-menu-components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/mega-menu-home.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/mega-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/modal-blog-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/modal-example.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/modal-order.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/modal-shop-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/modal-shop-filters.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/modal-ticket.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/navbar-dark.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/navbar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/off-canvas.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/page-title.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/photoswipe.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/related-products-carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/shop-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/side-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/topbar-dark.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/partials/topbar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/search-results.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-grid-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-grid-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-grid-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-list-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-list-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-list-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/templates/shop-single.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/bootstrap/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/css/feather.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/css/iziToast.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/css/pe-icon-7-stroke.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/css/photoswipe.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/css/socicon.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/downCount.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/gmap3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/iziToast.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/photoswipe-ui-default.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/photoswipe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-1/src/vendor/js/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/.sass-lint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/base/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/base/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_accordion.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_countdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_gallery.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_social-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_steps.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_tooltips.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/components/_widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/helpers/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/helpers/_placeholders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/helpers/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/layout/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/layout/_page-title.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/layout/_section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/modules/_account.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/modules/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/modules/_shop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/404.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-address.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-orders.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-password-recovery.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-profile.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-single-ticket.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-tickets.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/account-wishlist.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/blog-single.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/blog.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/cart.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/checkout-address.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/checkout-complete.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/checkout-payment.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/checkout-review.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/checkout-shipping.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/coming-soon.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/accordion.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/alerts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/cards.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/countdown.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/forms.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/gallery.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/google-maps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/images.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/list-group.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/market-social-buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/media.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/modal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/pills.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/progress-bars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/shop-items.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/spinners.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/steps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/tables.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/tabs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/team.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/toasts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/tooltips-popovers.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/video-player.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/components/widgets.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/contacts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/autoprefixer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/changelog.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/colors.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/credits.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/dev-setup.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/font-icons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/footer-skin.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/project-structure.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/using-preprocessors.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/utility-classes.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/docs/working-with-grunt.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/faq.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/helpers/config.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/helpers/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/home-featured-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/order-tracking.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/bootstrap-toast.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/checkout-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/docs-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/head.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/mega-menu-components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/mega-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/modal-example.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/modal-order.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/modal-review.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/modal-ticket.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/navbar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/page-title.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/photoswipe.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/related-products-carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/shop-filters.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/shop-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/side-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/toolbar-account.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/toolbar-cart.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/toolbar-mobile-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/toolbar-search.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/partials/toolbar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-boxed-ft.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-boxed-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-boxed-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-full-ft.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-full-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-full-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/templates/shop-single.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/bootstrap/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/css/iziToast.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/css/material-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/css/photoswipe.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/css/socicon.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/downCount.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/gmap3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/iziToast.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/photoswipe-ui-default.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/photoswipe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-2/src/vendor/js/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/.sass-lint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/base/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/base/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_accordion.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_comparison.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_countdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_gallery.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_social-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_steps.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_tooltips.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/components/_widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/helpers/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/helpers/_placeholders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/helpers/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/layout/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/layout/_page-title.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/layout/_section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/modules/_account.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/modules/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/modules/_shop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/404.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-address.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-login.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-orders.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-password-recovery.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-profile.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-single-ticket.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-tickets.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/account-wishlist.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/blog-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/blog-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/blog-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/blog-single-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/blog-single-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/blog-single-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/cart.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/checkout-address.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/checkout-complete.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/checkout-payment.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/checkout-review.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/checkout-shipping.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/coming-soon.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/accordion.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/alerts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/cards.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/countdown.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/forms.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/gallery.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/google-maps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/images.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/list-group.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/market-social-buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/media.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/modal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/pills.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/progress-bars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/shop-items.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/spinners.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/steps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/tables.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/tabs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/team.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/toasts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/tooltips-popovers.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/video-player.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/components/widgets.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/contacts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/autoprefixer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/changelog.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/colors.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/credits.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/dev-setup.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/font-icons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/footer-skin.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/project-structure.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/using-preprocessors.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/utility-classes.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/docs/working-with-grunt.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/faq.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/helpers/config.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/helpers/mixins.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/home-featured-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/order-tracking.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/blog-comments.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/blog-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/bootstrap-toast.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/checkout-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/docs-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/entry-navigation.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/head.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/mega-dropdown.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/mega-menu-components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/mega-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/mobile-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/modal-example.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/modal-order.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/modal-review.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/modal-ticket.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/page-title.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/photoswipe.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/related-posts-carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/related-products-carousel.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/shop-banner.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/shop-sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/side-menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/partials/toolbar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/product-comparison.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/search-results.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-categories.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-grid-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-grid-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-grid-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-list-ls.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-list-ns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-list-rs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/templates/shop-single.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/bootstrap/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/css/feather.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/css/iziToast.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/css/pe-icon-7-stroke.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/css/photoswipe.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/css/socicon.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/downCount.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/gmap3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/iziToast.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/photoswipe-ui-default.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/photoswipe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/Unishop/template-3/src/vendor/js/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/main/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/assets/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/components/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/components/product.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/firestore.indexes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/firestore.rules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/layouts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/layouts/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/layouts/error.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/middleware/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/middleware/authenticated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/nuxt.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/pages/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/pages/checkout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/pages/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/pages/product/_id.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/pages/secret.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/plugins/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/plugins/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/static/v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/store/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US-Kratom/store/index.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/default.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14288" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/app.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="967" column="17" selection-start-line="967" selection-start-column="17" selection-end-line="967" selection-end-column="17" />
+              <folding>
+                <element signature="e#58953#58991#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/index.vue" />
+        <option value="$PROJECT_DIR$/layouts/app.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kratom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kratom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kratom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kratom" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kratom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kratom" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a2d0fb-9435-4bf6-8716-08d0cb0dd7ad" name="Default Changelist" comment="" />
+      <created>1567117672664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567117672664</updated>
+      <workItem from="1567117673803" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="328000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="967" column="17" selection-start-line="967" selection-start-column="17" selection-end-line="967" selection-end-column="17" />
+          <folding>
+            <element signature="e#58953#58991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
