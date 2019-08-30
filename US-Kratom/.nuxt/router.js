@@ -3,10 +3,10 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _5ea179ec = () => interopDefault(import('../pages/checkout.vue' /* webpackChunkName: "pages/checkout" */))
-const _12eaa1d6 = () => interopDefault(import('../pages/secret.vue' /* webpackChunkName: "pages/secret" */))
-const _51a5db38 = () => interopDefault(import('../pages/product/_id.vue' /* webpackChunkName: "pages/product/_id" */))
-const _5755601c = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _36a9cbe8 = () => interopDefault(import('../pages/checkout.vue' /* webpackChunkName: "pages/checkout" */))
+const _591dc9f6 = () => interopDefault(import('../pages/secret.vue' /* webpackChunkName: "pages/secret" */))
+const _1d640378 = () => interopDefault(import('../pages/product/_id.vue' /* webpackChunkName: "pages/product/_id" */))
+const _280cb3fc = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 Vue.use(Router)
 
@@ -19,19 +19,19 @@ export const routerOptions = {
 
   routes: [{
       path: "/checkout",
-      component: _5ea179ec,
+      component: _36a9cbe8,
       name: "checkout"
     }, {
       path: "/secret",
-      component: _12eaa1d6,
+      component: _591dc9f6,
       name: "secret"
     }, {
       path: "/product/:id?",
-      component: _51a5db38,
+      component: _1d640378,
       name: "product-id"
     }, {
       path: "/",
-      component: _5755601c,
+      component: _280cb3fc,
       name: "index"
     }],
 
