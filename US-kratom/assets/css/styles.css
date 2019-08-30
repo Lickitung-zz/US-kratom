@@ -6348,18 +6348,18 @@ video {
 .site-menu ul > li > a {
   padding: 0 15px;
   transition: color .3s;
-  color: #606975;
+  color: #30352B;
   font-size: 14px;
   font-weight: 500;
   text-decoration: none;
 }
 
 .site-menu ul > li:hover > a {
-  color: #0da9ef;
+  color: #A1DD70;
 }
 
 .site-menu ul > li.active > a {
-  color: #0da9ef;
+  color: #FDFFF0;
 }
 
 .site-menu > ul {
