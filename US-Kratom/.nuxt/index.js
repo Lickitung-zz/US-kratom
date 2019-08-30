@@ -12,7 +12,7 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_22387c62 from 'nuxt_plugin_plugin_22387c62' // Source: ./vuetify/plugin.js (mode: 'all')
+import nuxt_plugin_plugin_813adf16 from 'nuxt_plugin_plugin_813adf16' // Source: ./vuetify/plugin.js (mode: 'all')
 import nuxt_plugin_firebase_362e73fb from 'nuxt_plugin_firebase_362e73fb' // Source: ../plugins/firebase (mode: 'all')
 
 // Component: <ClientOnly>
@@ -164,8 +164,8 @@ async function createApp(ssrContext) {
 
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_22387c62 === 'function') {
-    await nuxt_plugin_plugin_22387c62(app.context, inject)
+  if (typeof nuxt_plugin_plugin_813adf16 === 'function') {
+    await nuxt_plugin_plugin_813adf16(app.context, inject)
   }
 
   if (typeof nuxt_plugin_firebase_362e73fb === 'function') {
